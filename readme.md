@@ -107,6 +107,7 @@ https://github.com/refined-github/refined-github/wiki/Contributing#metadata-guid
 - [](# "visit-tag") [When navigating a repo's file on a specific tag, it adds a link to see the release/tag itself.](https://github-production-user-asset-6210df.s3.amazonaws.com/1402241/285123739-e5f4fa0a-3f48-49ef-9b87-2fd6f183c923.png)
 - [](# "actions-run-removal") [Lets you cancel or delete workflow runs faster from the workflow list.](https://github.com/user-attachments/assets/a054f9b4-9d56-40c0-9aac-09a8b07bbb3b)
 - [](# "rerun-workflow") [Unwraps the "Re-run jobs" dropdown into individual buttons and adds a keyboard shortcut to re-run failed jobs: <kbd>r</kbd> <kbd>f</kbd>](https://github.com/user-attachments/assets/67331112-f5b2-4a2b-af43-800d46bd6bf7).
+- [](# "extend-repo-tabs") [Collapses repository tabs if rarely used (Insights, Security) or when empty (Projects, Wiki, Actions). It also adds counters to Projects and Wiki.](https://github.com/user-attachments/assets/e7fa93ff-fc01-410d-b4da-f1fb96a85326)
 
 <!--
 Refer to style guide in the wiki. Keep this message between sections.
@@ -187,7 +188,7 @@ https://github.com/refined-github/refined-github/wiki/Contributing#metadata-guid
 
 - [](# "open-all-conversations") [Lets you open all visible issues/PRs at once.](https://github.com/user-attachments/assets/0d890b01-d5ca-4247-8270-055dd6355606)
 - [](# "sticky-conversation-list-toolbar") [Makes the issue/PR list’s filters toolbar sticky.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/261164103-875b70f7-5adc-4bb2-b158-8d5231d47da2.gif)
-- [](# "sticky-comment-header") [Makes the comment header sticky when scrolling through long comments. Requires `show-names` to be enabled.](https://github.com/user-attachments/assets/0d6deca0-0f49-4aa3-ab23-0cfbde4fa4e8)
+- [](# "sticky-comment-header") [Makes the comment header sticky when scrolling through long comments.](https://github.com/user-attachments/assets/0d6deca0-0f49-4aa3-ab23-0cfbde4fa4e8)
 - [](# "conversation-authors") [Highlights issues/PRs opened by you or the current repo’s collaborators.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252804821-a412e05c-fb76-400b-85b5-5acbda538ab2.png)
 - [](# "align-issue-labels") [In issue/PR lists, aligns the labels to the left, below each title.](https://github.com/user-attachments/assets/dca5dc12-7283-4704-a93f-5bfe5f2b1938)
 - [](# "last-update-sort") 🔥 Changes the default sort order of issues/PRs to `Recently updated`.
